@@ -120,10 +120,12 @@ This project is provided **strictly for educational, research, and defensive sec
 Do not use this code for unauthorized or malicious activities.
 The author is not responsible for misuse.
 
+**Please do not raise issues if the loader gets detected in the future, as detection timelines vary and there is no guarantee how long this technique will remain effective.**
 ---
 
 ## Author
 
 **PaiN05**
 Security Research | Offensive Tradecraft | Malware Development Research
+
 Pypi Link :- https://pypi.org/project/shellcoderunner-aes/1.0.0/
