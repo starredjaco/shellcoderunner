@@ -4,6 +4,10 @@
 
 **ShellcodeRunner** is a research-focused project designed to help security enthusiasts, red teamers, and malware researchers understand **how custom shellcode loaders work on Windows**.
 
+```bash
+pipx install shellcoderunner-aes==1.0.0
+```
+
 This repository demonstrates:
 
 * Encrypting raw shellcode using **AES**
